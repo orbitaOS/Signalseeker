@@ -7,4 +7,4 @@ This app is designed for diagnosing cellular antennas, Wi-Fi routers, Bluetooth 
 If you encounter any issues or bugs, please report them!
 
 **System Requirements:**
-* Android 12 or above (API level 31+)
+* Android 6 or above (API level 23+)
